@@ -1,0 +1,7 @@
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\bin\Debug\Opendownload For Framework.exe.config
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\bin\Debug\Opendownload For Framework.exe
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\bin\Debug\Opendownload For Framework.pdb
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\obj\Debug\Opendownload For Framework.csproj.AssemblyReference.cache
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\obj\Debug\Opendownload For Framework.csproj.CoreCompileInputs.cache
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\obj\Debug\Opendownload For Framework.exe
+D:\desktop\1331\Shiwulu-OpenDownload\Opendownload For Framework\obj\Debug\Opendownload For Framework.pdb
